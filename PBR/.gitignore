@@ -1,0 +1,42 @@
+# ===== Visual Studio / MSBuild =====
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Solution / project temp (optional)
+*.opensdf
+*.sdf
+
+# ===== Build output folders =====
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+out/
+build/
+
+# ===== C/C++ intermediate files =====
+*.obj
+*.pdb
+*.ipch
+*.iobj
+*.ipdb
+*.ilk
+*.tlog
+*.log
+*.cache
+*.pch
+
+# ===== DirectX / HLSL compiled shaders =====
+*.cso
+
+# ===== Common runtime dump/log =====
+*.dmp
+
+# ===== OS =====
+Thumbs.db
+.DS_Store
